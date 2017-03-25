@@ -1,0 +1,18 @@
+{
+  "name": "aggregator",
+  "version": "1.0.0",
+  "description": "Aggregated tool in node.js to connect insurance company and vendor",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+
+	},
+  "scripts": {
+    "start": "node server.js"
+  },  
+  "author": "Kekhran Mekhran Company",
+  "license": "ISC"
+   
+}
